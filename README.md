@@ -27,7 +27,7 @@ C:\yourfoldername>start ketqua02082025.txt
 hoặc
 C:\yourfoldername>notepad ketqua02082025.txt
 
-# 5. Mở liên kết trong cmd standard output bằng tổ hợp CTRL + SHIFT + Cursor Click
+# 5. Mở liên kết trong cmd standard output bằng tổ hợp CTRL + Cursor Click
 
 
 Quick start
