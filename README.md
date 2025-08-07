@@ -1,3 +1,6 @@
+Nội dung tin tức trong nước và quốc tế, hay còn gọi là thông tin mới trên internet, vô cùng phong phú, đa dạng và đến từ nhiều nguồn khác nhau. Việc chọn lọc thông tin phù hợp với lĩnh vực quan tâm đóng vai trò quan trọng, giúp người dùng luôn cập nhật và nắm bắt tin tức mới nhất một cách kịp thời. Thay vì phải truy cập từng website quen thuộc hoặc chỉ dựa vào một vài nguồn thông tin phổ biến – cách tiếp cận thường tốn thời gian và thiếu hệ thống – giải pháp này được phát triển để tự động hóa quá trình sàng lọc và thu thập thông tin từ nhiều nguồn đáng tin cậy. Công cụ này loại bỏ các thông tin trùng lặp, giảm thiểu việc đọc những nội dung không cần thiết, từ đó tiết kiệm thời gian và đảm bảo đầu ra thông tin ổn định, không biến động như kết quả từ các mô hình tìm kiếm AI thông thường.
+Công cụ này hỗ trợ tìm kiếm, lọc và tổng hợp thông tin từ các nguồn New Feeds (nội dung mới). Để sử dụng, người dùng cần có kiến thức cơ bản về Python nhằm cài đặt và quản lý các gói thư viện cần thiết để vận hành mã nguồn. Mã nguồn được thiết kế linh hoạt, cho phép tùy chỉnh theo nhu cầu riêng của từng người dùng. Nhóm tác giả khuyến khích cộng đồng người dùng, đồng nghiệp đóng góp ý kiến để hoàn thiện và nâng cao hiệu quả của công cụ.
+
 CÁCH DÙNG:
 
 # 1. Tìm kiếm với chuỗi từ khóa bất kỳ, mặc định là 3 ngày
