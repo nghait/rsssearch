@@ -20,8 +20,9 @@ python rs.py --keywords "sebs, aicn" --days 3
 python rss_keyword_search.py --keywords "Hà Nội, thanh niên, thời tiết" --days 3 > ketqua02082025.txt
 
 # 4. Đọc tệp kết quả TXT với lệnh start hoặc notepad:
-C:\yourfoldername>start EBS_last30_02082026.txt
-C:\yourfoldername>notepad EBS_last30_02082026.txt
+C:\yourfoldername>start ketqua02082025.txt
+hoặc
+C:\yourfoldername>notepad ketqua02082025.txt
 
 # 5. Mở liên kết trong cmd standard output bằng tổ hợp CTRL + SHIFT + Cursor Click
 
